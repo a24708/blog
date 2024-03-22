@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b36fe85.css",
+    "main.js": "/static/js/main.5b3a5542.js",
+    "static/js/453.ede2c593.chunk.js": "/static/js/453.ede2c593.chunk.js",
+    "static/media/KakaoTalk_20240322_095640471.png": "/static/media/KakaoTalk_20240322_095640471.874c2ceab714e1e95eca.png",
+    "index.html": "/index.html",
+    "main.1b36fe85.css.map": "/static/css/main.1b36fe85.css.map",
+    "main.5b3a5542.js.map": "/static/js/main.5b3a5542.js.map",
+    "453.ede2c593.chunk.js.map": "/static/js/453.ede2c593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b36fe85.css",
+    "static/js/main.5b3a5542.js"
+  ]
+}
